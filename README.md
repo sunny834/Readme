@@ -2,7 +2,7 @@
 **I'm Sunny Kumar** - I'm a Game developer, maker, and Indie . I'm interested in Indie game,code,and building projects to create belonging. I work on random projects in my free time, a lot involving Discord!
 
 [![SkillIcons](https://skillicons.dev/icons?i=unity,cs,unreal,cpp,blender)](https://skillicons.dev)<br/>
-[^ These project are one of my best projects!](https://github.com/sunny834/A-cozy-Kitchen-game)
+[^ These project are one of my best projects!](https://github.com/sunny834/A-cozy-Kitchen-game.)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
